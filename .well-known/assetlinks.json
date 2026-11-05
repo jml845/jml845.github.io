@@ -1,0 +1,17 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.flipcast.scorekeeper",
+      "sha256_cert_fingerprints": [
+        "AB:DB:84:65:A4:26:E8:C7:CB:F8:77:45:71:B3:F9:0D:B7:84:9B:C7:29:2D:3C:56:9C:05:6B:16:03:23:14:ED",
+        "8A:2B:4B:0D:6A:41:EA:97:F8:5C:EC:BC:E8:52:B0:95:A2:4E:FC:B9:E7:21:3A:29:EC:0B:8A:D8:34:16:81:A8",
+        "17:EC:73:12:7B:26:E8:AD:4F:02:53:FC:98:23:EA:0A:08:43:41:60:79:3F:02:10:F0:E6:83:92:BA:EF:E0:5E",
+        "96:92:44:72:86:F8:B7:26:9A:38:92:A5:D4:90:23:0E:40:F0:4F:54:F2:EB:9D:33:F7:DA:18:C5:E5:8A:E5:1C"
+      ]
+    }
+  }
+]
